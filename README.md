@@ -7,5 +7,5 @@ Told ChatGPT to write a script that extracts the netscaler cookie and decodes it
 
 Usage: 
 ```bash
-netscale.py --url http://thissiteusesnetscaler.com
+python3 netscale.py --url http://thissiteusesnetscaler.com
 ```
